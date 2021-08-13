@@ -20,7 +20,7 @@
     "@fortawesome/react-fontawesome": "^0.1.9",
     "@types/next": "^9.0.0",
     "emotion-theming": "^10.0.27",
-    "next": "9.3.2",
+    "next": "11.1.0",
     "prettier": "^2.0.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
